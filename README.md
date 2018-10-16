@@ -1,5 +1,5 @@
-# export-excel-codeigniter
-Repositori seri tutorial CodeIgniter: export excel codeigniter menggunakan library codeigniter phpspreadsheet
+# Seri Tutorial CodeIgniter: Export Excel CodeIgniter Menggunakan Library PhpSpreadsheet
+Repositori seri tutorial CodeIgniter: export excel codeigniter menggunakan library phpspreadsheet
 
 
 ## Install phpspreadsheet
