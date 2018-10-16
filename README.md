@@ -2,8 +2,8 @@
 Repositori seri tutorial CodeIgniter: export excel codeigniter menggunakan library phpspreadsheet
 
 
-## Install phpspreadsheet
-Buka terminal, lalu masuk ke project ini (misal nama foldernya: codeigniter)
+## Project Setup
+Buka terminal, lalu masuk ke folder project ini (misal nama foldernya: codeigniter)
 ```sh
 cd codeigniter
 ```
